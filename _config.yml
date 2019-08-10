@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+logo:  https://raw.githubusercontent.com/Aks-4125/NativeBiometricScanner/master/app/src/main/res/raw/native_scanner.jpg
+description: Android BiometricPrompt introduced in Android Pie
