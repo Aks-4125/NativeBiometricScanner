@@ -44,7 +44,7 @@ There are other bio-metric detection schemes that are beginning to appear, such 
 
 ## Dialog 
 
-![Result](https://github.com/Aks-4125/NativeBiometricScanner/blob/master/app/src/main/res/raw/native_scanner.jpg)
+![Result](https://raw.githubusercontent.com/Aks-4125/NativeBiometricScanner/master/app/src/main/res/raw/native_scanner.jpg)
 
 
 
